@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JamesRPohl
+- 👀 I’m interested in Programming in C++ and Python, and Cybersecurity
+- 🌱 I’m currently learning Computer Science at UVU
+- 📫 How to reach me: send me an Email at james.robert.pohl@gmail.com
